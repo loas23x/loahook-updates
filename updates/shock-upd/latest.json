@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "size": 4251136,
-  "sha256": "d675a17ece715fb8664d35db7d7740b78ea268888b7b45c7813ae8999935855e",
-  "name": "sell-2.exe",
-  "signature": "a2a0aaa054b0b2865153df2fe3e1565cae480610a30ef033c1bf4f391e2342c90e133e9aa4e45bc38d04de0e710bf277e495d3d921d0ac3ddd86db65a5afccf6"
+  "sha256": "3b1d2a0dc9d6c3cd67da1ebd70dd75bb4b7973d0250bc5bdcc769e695e6755c0",
+  "name": "loa.hook-3.exe",
+  "signature": "0d5726b80a7019a6cfb026d781af785921f75074021f307dc74bde7b575ad112774fb02f83e96ce883ae50c23cb0f56501910af0f9c7473199deea37dadea30f"
 }
