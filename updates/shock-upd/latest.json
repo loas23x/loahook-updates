@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "size": 4251136,
-  "sha256": "570804e31e9c5bd61060f34d2e9f6db2ccc23a9d6eb426fd4d6ebafc8d0a9cd0",
-  "name": "sell-1.exe",
-  "signature": "d31bfbafef12e9a92f680a930d6faea9211d37578ff7bfed5e5d338258be251d4b5e2a47695d40b3a81491dfd802dc4a2e8433039d60b61bdae7a67a0cf2c10a"
+  "sha256": "d675a17ece715fb8664d35db7d7740b78ea268888b7b45c7813ae8999935855e",
+  "name": "sell-2.exe",
+  "signature": "a2a0aaa054b0b2865153df2fe3e1565cae480610a30ef033c1bf4f391e2342c90e133e9aa4e45bc38d04de0e710bf277e495d3d921d0ac3ddd86db65a5afccf6"
 }
