@@ -1,7 +1,7 @@
 {
-  "version": 3,
-  "size": 4251136,
-  "sha256": "3b1d2a0dc9d6c3cd67da1ebd70dd75bb4b7973d0250bc5bdcc769e695e6755c0",
-  "name": "loa.hook-3.exe",
-  "signature": "0d5726b80a7019a6cfb026d781af785921f75074021f307dc74bde7b575ad112774fb02f83e96ce883ae50c23cb0f56501910af0f9c7473199deea37dadea30f"
+  "version": 4,
+  "size": 22781440,
+  "sha256": "d93f56af9d778eebc58dac0577f08d5f3028d087c8e82f93b942caa4cff4146d",
+  "name": "loa.hook-4.exe",
+  "signature": "727079ad6255fbfc9d56118686a49db4be7465d187e3cbc38f95bc2456fb8f875f294aade99001184478d8f1a12cdfb77b8fc75cab74ca008c5e0c72ca3f78fe"
 }
